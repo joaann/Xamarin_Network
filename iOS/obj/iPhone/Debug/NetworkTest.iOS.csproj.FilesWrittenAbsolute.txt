@@ -1,0 +1,16 @@
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/actool/partial-info.plist
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/actool/asset-manifest.plist
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/optimized/
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/NetworkTest.iOS.exe.mdb
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/NetworkTest.iOS.exe
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/NetworkTest.iOS.exe
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/obj/iPhone/Debug/NetworkTest.iOS.exe.mdb
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/NetworkTest.dll
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/NetworkTest.dll.mdb
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/Plugin.Connectivity.dll
+/Users/appdeveloperxlent/Projects/NetworkTest/iOS/bin/iPhone/Debug/Plugin.Connectivity.Abstractions.dll

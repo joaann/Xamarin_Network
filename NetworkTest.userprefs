@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Droid/NetworkTest.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.NTDv16" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkTest.cs">
+    <Files>
+      <File FileName="NetworkTest.cs" Line="20" Column="37" />
+      <File FileName="Pages/NetworkPage.xaml" Line="7" Column="51" />
+      <File FileName="Pages/NetworkPage.xaml.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

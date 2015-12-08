@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.CurrentActivity/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Permissions/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Connectivity/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.CurrentActivity/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Permissions/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Connectivity/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/appdeveloperxlent/Projects/NetworkTest/Droid/obj/Debug/__library_projects__/Plugin.Connectivity.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
